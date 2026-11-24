@@ -43,3 +43,8 @@ Alop is an independent project and is not affiliated with or endorsed by Spotify
 ## Source code
 
 This public repository contains the compiled app download and product information. It does not contain Alop’s app source code.
+
+
+## Creator
+
+Alop is created and maintained by **Nitheesh Ravichandran**, the owner of this project. The public repository provides the compiled app and download information; the application source code is kept private.
